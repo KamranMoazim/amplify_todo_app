@@ -1,4 +1,4 @@
-amplify pull --appId dn2vih7xhec87 --envName staging
+amplify pull --appId YourAppID --envName staging
 
 
 amplify add api
@@ -7,3 +7,6 @@ amplify add api
 amplify push
 
 amplify push --y
+
+
+amplify delete
